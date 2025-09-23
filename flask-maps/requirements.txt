@@ -1,0 +1,29 @@
+# Web
+Flask==3.0.3
+gunicorn==22.0.0
+python-dotenv==1.0.1
+
+# Geoespacial / Mapas (compatível com geobr==0.2.2 em Py 3.10)
+folium==0.17.0
+geopandas==1.0.1
+shapely==2.0.4
+fiona==1.9.6
+pyproj==3.4.1
+rtree==1.0.1
+
+# Data / Utils
+pandas==2.2.2
+requests==2.31.0
+
+# Bibliotecas brasileiras (públicas)
+DadosAbertosBrasil==2.0.1
+dados-gov-sdk==1.1.0
+brazilian-data==0.1.2
+python-bcb==0.3.2
+sgs==3.0.0
+sidrapy==0.1.4
+geobr==0.2.2
+PySUS==1.0.0
+
+# CKAN API
+ckanapi==4.8
