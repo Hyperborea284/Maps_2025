@@ -1,0 +1,2 @@
+./reactivate_after_restore.sh: linha 406: ogrinfo: comando não encontrado
+==== SAMPLE TERRITORIES (LIMIT 5) ====

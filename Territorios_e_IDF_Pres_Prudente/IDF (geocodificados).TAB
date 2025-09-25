@@ -1,0 +1,67 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 60
+    Càdigo Decimal (7, 0) Index 1 ;
+    C1 Decimal (9, 0) Index 2 ;
+    C2 Decimal (9, 0) Index 5 ;
+    C3 Decimal (9, 0) Index 6 ;
+    C4 Decimal (9, 0) Index 7 ;
+    C5 Decimal (9, 0) Index 8 ;
+    C8 Decimal (9, 2) Index 9 ;
+    D1 Decimal (9, 0) Index 10 ;
+    D2 Decimal (9, 0) Index 11 ;
+    D3 Decimal (9, 0) Index 12 ;
+    D4 Decimal (9, 0) Index 13 ;
+    D5 Decimal (9, 0) Index 14 ;
+    D6 Decimal (9, 0) Index 15 ;
+    D7 Decimal (9, 0) Index 16 ;
+    D8 Decimal (9, 0) Index 17 ;
+    D12 Decimal (9, 2) Index 18 ;
+    H1 Decimal (9, 0) Index 19 ;
+    H2 Decimal (9, 0) Index 20 ;
+    H3 Decimal (9, 0) Index 21 ;
+    H4 Decimal (9, 0) Index 22 ;
+    H5 Decimal (9, 0) Index 23 ;
+    H6 Decimal (9, 0) Index 24 ;
+    H7 Decimal (9, 0) Index 25 ;
+    H8 Decimal (9, 0) Index 26 ;
+    H16 Decimal (9, 2) Index 27 ;
+    R1 Decimal (9, 0) Index 28 ;
+    R2 Decimal (9, 0) ;
+    R3 Decimal (9, 0) ;
+    R4 Decimal (9, 0) ;
+    R5 Decimal (9, 0) ;
+    R6 Decimal (9, 0) ;
+    R10 Decimal (9, 2) ;
+    T1 Decimal (9, 0) ;
+    T2 Decimal (9, 0) ;
+    T3 Decimal (9, 0) ;
+    T4 Decimal (9, 0) ;
+    T5 Decimal (9, 0) ;
+    T9 Decimal (9, 2) ;
+    V1 Decimal (9, 0) ;
+    V2 Decimal (9, 0) ;
+    V3 Decimal (9, 0) ;
+    V4 Decimal (9, 0) ;
+    V5 Decimal (9, 0) ;
+    V6 Decimal (9, 0) ;
+    V7 Decimal (9, 0) ;
+    V8 Decimal (9, 0) ;
+    V9 Decimal (9, 0) ;
+    V14 Decimal (9, 2) ;
+    Idf Decimal (9, 2) Index 29 ;
+    Area Decimal (9, 0) ;
+    Cep Char (14) ;
+    Tipo Char (9) ;
+    Logradouro Char (38) ;
+    Numero Char (16) ;
+    Endere_o Char (34) ;
+    Complement Char (7) ;
+    Bairro Char (29) ;
+    Numeros Integer ;
+    X Decimal (7, 5) ;
+    Y Decimal (7, 5) ;

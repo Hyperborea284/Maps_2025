@@ -1,0 +1,3 @@
+./reactivate_after_restore.sh: linha 412: ogrinfo: comando não encontrado
+
+==== SAMPLE IDF (LIMIT 10) ====
